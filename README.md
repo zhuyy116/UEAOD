@@ -1,2 +1,2 @@
 # UEAOD
-The source code will be made publicly available upon publication.
+The source code will be made publicly available paper acceptance.
