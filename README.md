@@ -1,2 +1,2 @@
 # UEAOD
-The source code will be made publicly available paper acceptance.
+Complete, runnable code is being compiled and will be released later.
